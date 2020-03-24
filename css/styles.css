@@ -1,0 +1,27 @@
+#walrus-showing {
+    display: none;
+}
+#big-walrus {
+  display: none;
+}
+#walrus-info{
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.show-big-walrus {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.show-big-walrus:hover {
+  text-decoration: underline;
+}
